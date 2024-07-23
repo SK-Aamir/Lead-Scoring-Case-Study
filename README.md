@@ -20,9 +20,7 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 - Obervations in terms of Accuracy, Sensitivity, Specificity, Precision & Recall
 ## Details of files given
-- Lead Score Case Study.ipynb : The python file with codes, analysis, Logistic regression model and Results along with comments
-- Assignment Subjective Questions.pdf : Answered
-- Lead Score Case Study.pdf : Final Presentation
-- Leads.csv : Given Data Set 
-- Leads Data Dictionary.xlsx : Data Dictionary
+- Lead Scoring Case Study.ipynb : The python file with codes, analysis, Logistic regression model and Results along with comments
+- Assignment Subjective Questions (Solved).pdf : Answered
+- Presentation.pdf : Final Presentation
 - Summary.pdf : Summary on the steps and approach taken while building the model
